@@ -1,6 +1,6 @@
 import pyxel, math
 
-# リソースファイル（画像などの入っているファイル）
+# リソースファイル（画像などの入っているファイル）こ
 RESOURCE_FILE = "my_resource.pyxres"
 
 # 無敵モードにしたいときはTrueにする
